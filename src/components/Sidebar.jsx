@@ -344,7 +344,7 @@ export const Sidebar = ({ sidebarActive, setSidebarActive }) => {
                     fontSize: "1.1em",
                   }}
                 >
-                  Download CV
+                 Descargar CV
                 </Text>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"

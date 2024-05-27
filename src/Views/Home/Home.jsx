@@ -36,7 +36,7 @@ export const Home = () => {
                 },
               }}
             >
-              About me
+              Acerca de mí
             </Text>
             <Box
               sx={{
