@@ -14,6 +14,27 @@ export const Experience = () => {
       type: "frontend",
       image: "./skills/css.png",
     },
+
+    {
+      name: "Bootstrap",
+      type: "frontend",
+      image: "./skills/6870940341536207300.svg",
+    },
+
+    {
+      name: "Angular",
+      type: "frontend",
+      image: "./skills/angular.svg",
+    },
+
+    {
+      name: "Vue",
+      type: "frontend",
+      image: "./skills/vue.svg",
+    },
+    
+
+    
     {
       name: "JavaScript",
       type: "frontend",
@@ -30,44 +51,64 @@ export const Experience = () => {
       image: "./skills/electronjs.svg",
     },
     {
+      name: "Capacitor",
+      type: "frontend",
+      image: "./skills/file-type-capacitor.svg",
+    },
+    {
       name: "Flutter",
       type: "frontend",
-      image: "./skills/react-native.svg",
+      image: "./skills/flutter_logo_470e9f7491.png",
     },
+    
     {
-      name: "Vue",
-      type: "frontend",
-      image: "./skills/vue.svg",
+      name: "",
+      type: "backend",
+      image: "./skills/java-original-wordmark.svg",
     },
+
     {
-      name: "Node.js",
+      name: "",
       type: "backend",
       image: "./skills/nodejs.svg",
     },
-    {
-      name: "Flutter",
-      type: "backend",
-      image: "./skills/python.svg",
-    },
+
     {
       name: "Nest.js",
       type: "backend",
       image: "./skills/nestjs.svg",
     },
+
+
     {
-      name: "PostgreSQL",
+      name: "",
       type: "backend",
-      image: "./skills/postgresql.svg",
+      image: "./skills/8717325371579517868.svg",
     },
     {
-      name: "MySql",
+      name: "Laravel",
       type: "backend",
-      image: "./skills/postgresql.svg",
+      image: "./skills/7733528561553750224.svg",
     },
     {
-      name: "MongoDB",
+      name: "",
       type: "backend",
-      image: "./skills/mongodb.svg",
+      image: "./skills/5345125911553750371.svg",
+    },
+    {
+      name: "GIT",
+      type: "backend",
+      image: "./skills/8347720961540553611.svg",
+    },
+    {
+      name: "Linux",
+      type: "backend",
+      image: "./skills/17908996891579517858.svg",
+    },
+    {
+      name: "",
+      type: "backend",
+      image: "./skills/12099885771536233213.svg",
     },
   ];
 
